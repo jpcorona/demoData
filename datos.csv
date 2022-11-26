@@ -1,4 +1,4 @@
-edad,job,estado_civil,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,deposit
+age,job,estado_civil,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,deposit
 59,admin.,married,secondary,no,2343,yes,no,desconocido,5,may,1042,1,-1,0,desconocido,yes
 56,admin.,married,secondary,no,45,no,no,desconocido,5,may,1467,1,-1,0,desconocido,yes
 41,mantencion,married,secondary,no,1270,yes,no,desconocido,5,may,1389,1,-1,0,desconocido,yes
