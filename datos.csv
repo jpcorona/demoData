@@ -1,4 +1,4 @@
-ruta,area,estado_maquina,prioridad,default,balance,nueva,loan,contacto,dia,mes,duracion,campaign,pdias,previous,resultado,deposit
+ruta,area,estado_maquina,prioridad,default,balance,nueva,es marel,contacto,dia,mes,duracion,campaign,pdias,anterior,resultado,supervisado
 59,admin.,buena,secondary,no,2343,si,no,desconocido,5,may,1042,1,-1,0,desconocido,si
 56,admin.,buena,secondary,no,45,no,no,desconocido,5,may,1467,1,-1,0,desconocido,si
 41,mantencion,buena,secondary,no,1270,si,no,desconocido,5,may,1389,1,-1,0,desconocido,si
