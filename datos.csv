@@ -1,5 +1,5 @@
 
-edad,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,deposit
+edad,profesion,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,deposit
 59,admin.,kpi 4,secondary,no,2343,yes,no,unknown,5,may,1042,1,-1,0,unknown,yes
 56,admin.,kpi 4,secondary,no,45,no,no,unknown,5,may,1467,1,-1,0,unknown,yes
 41,technician,kpi 4,secondary,no,1270,yes,no,unknown,5,may,1389,1,-1,0,unknown,yes
