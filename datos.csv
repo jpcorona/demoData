@@ -1,85 +1,85 @@
 
-edad,profesion,estado_civil,educacion,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,deposit
+edad,profesion,estado_civil,educacion,default,balance,housing,loan,contacto,dia,mes,duracion,campaña,pdias,anterior,poutcome,deposito
 59,admin.,kpi 4,secondary,no,2343,yes,no,unknown,5,may,1042,1,-1,0,unknown,yes
-56,admin.,kpi 4,secondary,no,45,no,no,unknown,5,may,1467,1,-1,0,unknown,yes
-41,tecnico,kpi 4,secondary,no,1270,yes,no,unknown,5,may,1389,1,-1,0,unknown,yes
-55,servicios,kpi 4,secondary,no,2476,yes,no,unknown,5,may,579,1,-1,0,unknown,yes
-54,admin.,kpi 4,tertiary,no,184,no,no,unknown,5,may,673,2,-1,0,unknown,yes
+56,admin.,casado,secondary,no,45,no,no,unknown,5,may,1467,1,-1,0,unknown,yes
+41,tecnico,casado,secondary,no,1270,yes,no,unknown,5,may,1389,1,-1,0,unknown,yes
+55,servicios,casado,secondary,no,2476,yes,no,unknown,5,may,579,1,-1,0,unknown,yes
+54,admin.,casado,tertiary,no,184,no,no,unknown,5,may,673,2,-1,0,unknown,yes
 42,administracion,soltero,tertiary,no,0,yes,yes,unknown,5,may,562,2,-1,0,unknown,yes
-56,administracion,kpi 4,tertiary,no,830,yes,yes,unknown,6,may,1201,1,-1,0,unknown,yes
+56,administracion,casado,tertiary,no,830,yes,yes,unknown,6,may,1201,1,-1,0,unknown,yes
 60,jubilado,kpi 6,secondary,no,545,yes,no,unknown,6,may,1030,1,-1,0,unknown,yes
-37,tecnico,kpi 4,secondary,no,1,yes,no,unknown,6,may,608,1,-1,0,unknown,yes
+37,tecnico,casado,secondary,no,1,yes,no,unknown,6,may,608,1,-1,0,unknown,yes
 28,servicios,soltero,secondary,no,5090,yes,no,unknown,6,may,1297,3,-1,0,unknown,yes
 38,admin.,soltero,secondary,no,100,yes,no,unknown,7,may,786,1,-1,0,unknown,yes
-30,ingeniero,kpi 4,secondary,no,309,yes,no,unknown,7,may,1574,2,-1,0,unknown,yes
-29,administracion,kpi 4,tertiary,no,199,yes,yes,unknown,7,may,1689,4,-1,0,unknown,yes
+30,ingeniero,casado,secondary,no,309,yes,no,unknown,7,may,1574,2,-1,0,unknown,yes
+29,administracion,casado,tertiary,no,199,yes,yes,unknown,7,may,1689,4,-1,0,unknown,yes
 46,ingeniero,soltero,tertiary,no,460,yes,no,unknown,7,may,1102,2,-1,0,unknown,yes
 31,tecnico,soltero,tertiary,no,703,yes,no,unknown,8,may,943,2,-1,0,unknown,yes
 35,administracion,kpi 6,tertiary,no,3837,yes,no,unknown,8,may,1084,1,-1,0,unknown,yes
 32,ingeniero,soltero,primary,no,611,yes,no,unknown,8,may,541,3,-1,0,unknown,yes
-49,servicios,kpi 4,secondary,no,-8,yes,no,unknown,8,may,1119,1,-1,0,unknown,yes
-41,admin.,kpi 4,secondary,no,55,yes,no,unknown,8,may,1120,2,-1,0,unknown,yes
+49,servicios,casado,secondary,no,-8,yes,no,unknown,8,may,1119,1,-1,0,unknown,yes
+41,admin.,casado,secondary,no,55,yes,no,unknown,8,may,1120,2,-1,0,unknown,yes
 49,admin.,kpi 6,secondary,no,168,yes,yes,unknown,8,may,513,1,-1,0,unknown,yes
 28,admin.,kpi 6,secondary,no,785,yes,no,unknown,8,may,442,2,-1,0,unknown,yes
 43,administracion,soltero,tertiary,no,2067,yes,no,unknown,8,may,756,1,-1,0,unknown,yes
 43,administracion,kpi 6,tertiary,no,388,yes,no,unknown,8,may,2087,2,-1,0,unknown,yes
-43,ingeniero,kpi 4,primary,no,-192,yes,no,unknown,8,may,1120,2,-1,0,unknown,yes
+43,ingeniero,casado,primary,no,-192,yes,no,unknown,8,may,1120,2,-1,0,unknown,yes
 37,unemployed,soltero,secondary,no,381,yes,no,unknown,8,may,985,2,-1,0,unknown,yes
 35,ingeniero,soltero,secondary,no,40,yes,no,unknown,9,may,617,4,-1,0,unknown,yes
 31,tecnico,soltero,tertiary,no,22,yes,no,unknown,9,may,483,3,-1,0,unknown,yes
 43,ingeniero,soltero,secondary,no,3,yes,no,unknown,9,may,929,3,-1,0,unknown,yes
-31,admin.,kpi 4,secondary,no,307,yes,no,unknown,9,may,538,1,-1,0,unknown,yes
+31,admin.,casado,secondary,no,307,yes,no,unknown,9,may,538,1,-1,0,unknown,yes
 28,ingeniero,soltero,secondary,no,759,yes,no,unknown,9,may,710,1,-1,0,unknown,yes
-32,ingeniero,kpi 4,secondary,yes,-1,yes,no,unknown,9,may,653,1,-1,0,unknown,yes
-60,tecnico,kpi 4,primary,no,65,yes,no,unknown,9,may,1028,2,-1,0,unknown,yes
+32,ingeniero,casado,secondary,yes,-1,yes,no,unknown,9,may,653,1,-1,0,unknown,yes
+60,tecnico,casado,primary,no,65,yes,no,unknown,9,may,1028,2,-1,0,unknown,yes
 26,ingeniero,soltero,secondary,no,82,yes,no,unknown,9,may,654,1,-1,0,unknown,yes
-40,ingeniero,kpi 4,secondary,no,10,yes,no,unknown,9,may,1692,2,-1,0,unknown,yes
+40,ingeniero,casado,secondary,no,10,yes,no,unknown,9,may,1692,2,-1,0,unknown,yes
 33,ingeniero,kpi 6,primary,no,390,yes,no,unknown,9,may,665,2,-1,0,unknown,yes
 32,administracion,soltero,tertiary,no,311,no,no,unknown,12,may,757,2,-1,0,unknown,yes
-35,ingeniero,kpi 4,primary,no,414,no,no,unknown,13,may,504,4,-1,0,unknown,yes
+35,ingeniero,casado,primary,no,414,no,no,unknown,13,may,504,4,-1,0,unknown,yes
 33,administracion,kpi 6,secondary,no,5,yes,no,unknown,13,may,1346,1,-1,0,unknown,yes
-38,administracion,kpi 4,tertiary,no,119,yes,no,unknown,13,may,568,4,-1,0,unknown,yes
+38,administracion,casado,tertiary,no,119,yes,no,unknown,13,may,568,4,-1,0,unknown,yes
 23,emprendedor,soltero,primary,no,4,yes,no,unknown,13,may,395,2,-1,0,unknown,yes
-60,ingeniero,kpi 4,primary,no,1262,yes,yes,unknown,13,may,1015,1,-1,0,unknown,yes
-48,administracion,kpi 4,tertiary,no,1949,yes,no,unknown,13,may,683,2,-1,0,unknown,yes
+60,ingeniero,casado,primary,no,1262,yes,yes,unknown,13,may,1015,1,-1,0,unknown,yes
+48,administracion,casado,tertiary,no,1949,yes,no,unknown,13,may,683,2,-1,0,unknown,yes
 45,emprendedor,kpi 6,tertiary,no,-395,yes,no,unknown,13,may,470,1,-1,0,unknown,yes
-36,ingeniero,kpi 4,secondary,no,1165,yes,no,unknown,13,may,1001,4,-1,0,unknown,yes
-52,administracion,kpi 4,unknown,no,2240,yes,no,unknown,13,may,845,1,-1,0,unknown,yes
+36,ingeniero,casado,secondary,no,1165,yes,no,unknown,13,may,1001,4,-1,0,unknown,yes
+52,administracion,casado,unknown,no,2240,yes,no,unknown,13,may,845,1,-1,0,unknown,yes
 35,ingeniero,kpi 6,primary,no,300,yes,no,unknown,13,may,945,2,-1,0,unknown,yes
-43,tecnico,kpi 4,secondary,no,3285,yes,no,unknown,13,may,1721,2,-1,0,unknown,yes
-52,dueña de casa,kpi 4,secondary,no,3923,yes,no,unknown,14,may,942,3,-1,0,unknown,yes
+43,tecnico,casado,secondary,no,3285,yes,no,unknown,13,may,1721,2,-1,0,unknown,yes
+52,dueña de casa,casado,secondary,no,3923,yes,no,unknown,14,may,942,3,-1,0,unknown,yes
 53,tecnico,kpi 6,primary,no,1443,yes,no,unknown,14,may,476,1,-1,0,unknown,yes
 48,ingeniero,kpi 6,primary,no,24,yes,no,unknown,14,may,832,1,-1,0,unknown,yes
 41,ingeniero,soltero,primary,no,1618,yes,no,unknown,14,may,1553,1,-1,0,unknown,yes
 39,administracion,kpi 6,tertiary,no,517,yes,yes,unknown,14,may,1328,1,-1,0,unknown,yes
-59,jubilado,kpi 4,secondary,no,1521,yes,yes,unknown,14,may,1125,2,-1,0,unknown,yes
-41,ingeniero,kpi 4,secondary,no,2823,yes,no,unknown,14,may,858,1,-1,0,unknown,yes
-48,ingeniero,kpi 4,secondary,no,1405,yes,no,unknown,14,may,629,2,-1,0,unknown,yes
-40,admin.,kpi 4,secondary,no,1535,yes,no,unknown,14,may,704,1,-1,0,unknown,yes
-48,ingeniero,kpi 4,secondary,no,1596,yes,no,unknown,14,may,760,1,-1,0,unknown,yes
-60,jubilado,kpi 4,primary,no,1542,yes,no,unknown,14,may,930,1,-1,0,unknown,yes
+59,jubilado,casado,secondary,no,1521,yes,yes,unknown,14,may,1125,2,-1,0,unknown,yes
+41,ingeniero,casado,secondary,no,2823,yes,no,unknown,14,may,858,1,-1,0,unknown,yes
+48,ingeniero,casado,secondary,no,1405,yes,no,unknown,14,may,629,2,-1,0,unknown,yes
+40,admin.,casado,secondary,no,1535,yes,no,unknown,14,may,704,1,-1,0,unknown,yes
+48,ingeniero,casado,secondary,no,1596,yes,no,unknown,14,may,760,1,-1,0,unknown,yes
+60,jubilado,casado,primary,no,1542,yes,no,unknown,14,may,930,1,-1,0,unknown,yes
 40,tecnico,soltero,unknown,no,3652,yes,no,unknown,14,may,1028,2,-1,0,unknown,yes
-57,tecnico,kpi 4,tertiary,no,-1,no,no,unknown,14,may,850,2,-1,0,unknown,yes
-51,ingeniero,kpi 4,secondary,no,7180,yes,no,unknown,14,may,927,1,-1,0,unknown,yes
+57,tecnico,casado,tertiary,no,-1,no,no,unknown,14,may,850,2,-1,0,unknown,yes
+51,ingeniero,casado,secondary,no,7180,yes,no,unknown,14,may,927,1,-1,0,unknown,yes
 41,ingeniero,kpi 6,secondary,no,5291,yes,no,unknown,14,may,1423,3,-1,0,unknown,yes
-41,ingeniero,kpi 4,secondary,no,1384,yes,no,unknown,15,may,1162,4,-1,0,unknown,yes
+41,ingeniero,casado,secondary,no,1384,yes,no,unknown,15,may,1162,4,-1,0,unknown,yes
 52,ingeniero,kpi 6,primary,no,-191,yes,no,unknown,15,may,755,1,-1,0,unknown,yes
-59,ingeniero,kpi 4,primary,no,320,yes,no,unknown,15,may,695,1,-1,0,unknown,yes
-44,ingeniero,kpi 4,unknown,no,146,yes,no,unknown,15,may,483,1,-1,0,unknown,yes
-49,unknown,kpi 4,primary,no,341,yes,yes,unknown,15,may,520,2,-1,0,unknown,yes
-40,servicios,kpi 4,primary,no,-9,yes,no,unknown,15,may,920,2,-1,0,unknown,yes
-41,admin.,kpi 4,primary,no,-306,yes,no,unknown,15,may,500,1,-1,0,unknown,yes
-44,tecnico,kpi 4,tertiary,no,4580,yes,no,unknown,15,may,911,2,-1,0,unknown,yes
+59,ingeniero,casado,primary,no,320,yes,no,unknown,15,may,695,1,-1,0,unknown,yes
+44,ingeniero,casado,unknown,no,146,yes,no,unknown,15,may,483,1,-1,0,unknown,yes
+49,unknown,casado,primary,no,341,yes,yes,unknown,15,may,520,2,-1,0,unknown,yes
+40,servicios,casado,primary,no,-9,yes,no,unknown,15,may,920,2,-1,0,unknown,yes
+41,admin.,casado,primary,no,-306,yes,no,unknown,15,may,500,1,-1,0,unknown,yes
+44,tecnico,casado,tertiary,no,4580,yes,no,unknown,15,may,911,2,-1,0,unknown,yes
 60,servicios,soltero,primary,no,313,yes,no,unknown,15,may,920,2,-1,0,unknown,yes
-29,administracion,kpi 4,tertiary,no,10576,no,no,unknown,15,may,1224,2,-1,0,unknown,yes
+29,administracion,casado,tertiary,no,10576,no,no,unknown,15,may,1224,2,-1,0,unknown,yes
 41,jubilado,kpi 6,primary,no,-233,yes,no,unknown,15,may,1156,2,-1,0,unknown,yes
-41,ingeniero,kpi 4,primary,no,2453,yes,no,unknown,15,may,1052,1,-1,0,unknown,yes
-42,tecnico,kpi 4,secondary,no,1364,yes,no,unknown,15,may,1867,6,-1,0,unknown,yes
+41,ingeniero,casado,primary,no,2453,yes,no,unknown,15,may,1052,1,-1,0,unknown,yes
+42,tecnico,casado,secondary,no,1364,yes,no,unknown,15,may,1867,6,-1,0,unknown,yes
 36,servicios,soltero,unknown,no,281,yes,no,unknown,16,may,515,1,-1,0,unknown,yes
-39,tecnico,kpi 4,tertiary,no,94,yes,yes,unknown,16,may,813,1,-1,0,unknown,yes
+39,tecnico,casado,tertiary,no,94,yes,yes,unknown,16,may,813,1,-1,0,unknown,yes
 31,freelance,soltero,tertiary,no,144,yes,no,unknown,16,may,676,1,-1,0,unknown,yes
-26,ingeniero,kpi 4,secondary,no,246,yes,no,unknown,16,may,1143,3,-1,0,unknown,yes
-31,ingeniero,kpi 4,secondary,no,92,yes,no,unknown,16,may,688,1,-1,0,unknown,yes
+26,ingeniero,casado,secondary,no,246,yes,no,unknown,16,may,1143,3,-1,0,unknown,yes
+31,ingeniero,casado,secondary,no,92,yes,no,unknown,16,may,688,1,-1,0,unknown,yes
 29,admin.,soltero,secondary,no,163,yes,yes,unknown,16,may,803,1,-1,0,unknown,yes
 37,servicios,kpi 6,secondary,no,49,yes,no,unknown,16,may,619,2,-1,0,unknown,yes
 33,ingeniero,soltero,secondary,no,-416,yes,no,unknown,16,may,767,2,-1,0,unknown,yes
@@ -88,109 +88,109 @@ edad,profesion,estado_civil,educacion,default,balance,housing,loan,contact,day,m
 27,tecnico,soltero,tertiary,no,3706,yes,no,unknown,16,may,897,1,-1,0,unknown,yes
 54,administracion,soltero,tertiary,no,4393,yes,no,unknown,16,may,1297,3,-1,0,unknown,yes
 30,tecnico,soltero,secondary,no,863,yes,no,unknown,16,may,1193,5,-1,0,unknown,yes
-34,ingeniero,kpi 4,primary,no,695,yes,yes,unknown,16,may,1064,4,-1,0,unknown,yes
+34,ingeniero,casado,primary,no,695,yes,yes,unknown,16,may,1064,4,-1,0,unknown,yes
 37,administracion,soltero,secondary,no,792,yes,no,unknown,16,may,1187,4,-1,0,unknown,yes
 41,admin.,soltero,secondary,no,1020,yes,no,unknown,19,may,882,1,-1,0,unknown,yes
-47,ingeniero,kpi 4,secondary,no,863,yes,no,unknown,19,may,943,2,-1,0,unknown,yes
-31,admin.,kpi 4,secondary,no,97,yes,no,unknown,19,may,607,1,-1,0,unknown,yes
-31,ingeniero,kpi 4,secondary,no,754,yes,no,unknown,19,may,1022,4,-1,0,unknown,yes
+47,ingeniero,casado,secondary,no,863,yes,no,unknown,19,may,943,2,-1,0,unknown,yes
+31,admin.,casado,secondary,no,97,yes,no,unknown,19,may,607,1,-1,0,unknown,yes
+31,ingeniero,casado,secondary,no,754,yes,no,unknown,19,may,1022,4,-1,0,unknown,yes
 43,servicios,kpi 6,secondary,no,1040,yes,no,unknown,19,may,552,3,-1,0,unknown,yes
 37,administracion,kpi 6,tertiary,no,122,yes,no,unknown,19,may,1622,2,-1,0,unknown,yes
 30,tecnico,soltero,tertiary,no,880,yes,yes,unknown,19,may,967,6,-1,0,unknown,yes
-41,tecnico,kpi 4,secondary,no,501,yes,no,unknown,19,may,579,5,-1,0,unknown,yes
-36,ingeniero,kpi 4,secondary,no,4438,yes,no,unknown,20,may,446,1,-1,0,unknown,yes
+41,tecnico,casado,secondary,no,501,yes,no,unknown,19,may,579,5,-1,0,unknown,yes
+36,ingeniero,casado,secondary,no,4438,yes,no,unknown,20,may,446,1,-1,0,unknown,yes
 35,ingeniero,kpi 6,secondary,no,0,yes,no,unknown,20,may,1205,1,-1,0,unknown,yes
 29,servicios,soltero,secondary,no,271,yes,no,unknown,20,may,1882,2,-1,0,unknown,yes
-35,ingeniero,kpi 4,primary,no,102,yes,no,unknown,20,may,1334,1,-1,0,unknown,yes
-31,ingeniero,kpi 4,secondary,no,2,yes,no,unknown,20,may,182,2,-1,0,unknown,yes
-35,servicios,kpi 4,secondary,no,4170,yes,no,unknown,20,may,1777,1,-1,0,unknown,yes
+35,ingeniero,casado,primary,no,102,yes,no,unknown,20,may,1334,1,-1,0,unknown,yes
+31,ingeniero,casado,secondary,no,2,yes,no,unknown,20,may,182,2,-1,0,unknown,yes
+35,servicios,casado,secondary,no,4170,yes,no,unknown,20,may,1777,1,-1,0,unknown,yes
 34,tecnico,soltero,secondary,no,85,yes,no,unknown,20,may,1182,4,-1,0,unknown,yes
 31,admin.,soltero,secondary,no,431,yes,yes,unknown,20,may,1045,1,-1,0,unknown,yes
 44,tecnico,kpi 6,secondary,no,982,yes,no,unknown,20,may,650,3,-1,0,unknown,yes
-36,ingeniero,kpi 4,primary,no,408,yes,yes,unknown,20,may,1063,2,-1,0,unknown,yes
-35,ingeniero,kpi 4,unknown,no,4822,yes,no,unknown,20,may,843,2,-1,0,unknown,yes
-41,ingeniero,kpi 4,primary,no,1250,yes,no,unknown,20,may,1392,2,-1,0,unknown,yes
+36,ingeniero,casado,primary,no,408,yes,yes,unknown,20,may,1063,2,-1,0,unknown,yes
+35,ingeniero,casado,unknown,no,4822,yes,no,unknown,20,may,843,2,-1,0,unknown,yes
+41,ingeniero,casado,primary,no,1250,yes,no,unknown,20,may,1392,2,-1,0,unknown,yes
 31,ingeniero,soltero,primary,no,216,yes,no,unknown,21,may,565,1,-1,0,unknown,yes
-34,ingeniero,kpi 4,secondary,no,1207,yes,no,unknown,21,may,905,1,-1,0,unknown,yes
-32,tecnico,kpi 4,secondary,no,791,yes,no,unknown,21,may,783,2,-1,0,unknown,yes
-36,administracion,kpi 4,tertiary,no,849,yes,yes,unknown,21,may,958,2,-1,0,unknown,yes
+34,ingeniero,casado,secondary,no,1207,yes,no,unknown,21,may,905,1,-1,0,unknown,yes
+32,tecnico,casado,secondary,no,791,yes,no,unknown,21,may,783,2,-1,0,unknown,yes
+36,administracion,casado,tertiary,no,849,yes,yes,unknown,21,may,958,2,-1,0,unknown,yes
 30,ingeniero,soltero,secondary,yes,239,yes,no,unknown,21,may,412,1,-1,0,unknown,yes
 37,tecnico,soltero,secondary,no,1211,yes,no,unknown,21,may,795,1,-1,0,unknown,yes
-36,ingeniero,kpi 4,primary,no,599,yes,no,unknown,21,may,649,2,-1,0,unknown,yes
+36,ingeniero,casado,primary,no,599,yes,no,unknown,21,may,649,2,-1,0,unknown,yes
 31,administracion,soltero,tertiary,no,825,yes,no,unknown,21,may,506,2,-1,0,unknown,yes
-27,tecnico,kpi 4,secondary,no,2183,yes,yes,unknown,21,may,857,1,-1,0,unknown,yes
-34,jubilado,kpi 4,primary,no,4499,no,no,unknown,21,may,1681,1,-1,0,unknown,yes
+27,tecnico,casado,secondary,no,2183,yes,yes,unknown,21,may,857,1,-1,0,unknown,yes
+34,jubilado,casado,primary,no,4499,no,no,unknown,21,may,1681,1,-1,0,unknown,yes
 30,tecnico,soltero,tertiary,no,1289,yes,no,unknown,21,may,1697,2,-1,0,unknown,yes
 32,tecnico,soltero,tertiary,no,4665,yes,no,unknown,21,may,860,2,-1,0,unknown,yes
 37,tecnico,soltero,secondary,no,3326,yes,no,unknown,21,may,799,1,-1,0,unknown,yes
-32,ingeniero,kpi 4,secondary,no,783,yes,no,unknown,21,may,923,3,-1,0,unknown,yes
-33,ingeniero,kpi 4,secondary,no,0,yes,no,unknown,21,may,521,3,-1,0,unknown,yes
-35,ingeniero,kpi 4,primary,no,994,yes,no,unknown,23,may,1349,8,-1,0,unknown,yes
+32,ingeniero,casado,secondary,no,783,yes,no,unknown,21,may,923,3,-1,0,unknown,yes
+33,ingeniero,casado,secondary,no,0,yes,no,unknown,21,may,521,3,-1,0,unknown,yes
+35,ingeniero,casado,primary,no,994,yes,no,unknown,23,may,1349,8,-1,0,unknown,yes
 35,freelance,kpi 6,tertiary,no,1354,yes,no,unknown,23,may,736,2,-1,0,unknown,yes
 30,ingeniero,soltero,secondary,no,239,yes,no,unknown,23,may,785,1,-1,0,unknown,yes
 45,ingeniero,kpi 6,primary,no,-311,yes,no,unknown,23,may,1030,1,-1,0,unknown,yes
-45,admin.,kpi 4,secondary,no,149,yes,no,unknown,23,may,893,3,-1,0,unknown,yes
-33,ingeniero,kpi 4,secondary,no,1464,yes,no,unknown,23,may,588,3,-1,0,unknown,yes
+45,admin.,casado,secondary,no,149,yes,no,unknown,23,may,893,3,-1,0,unknown,yes
+33,ingeniero,casado,secondary,no,1464,yes,no,unknown,23,may,588,3,-1,0,unknown,yes
 44,administracion,kpi 6,tertiary,no,5773,no,no,unknown,23,may,597,6,-1,0,unknown,yes
-40,ingeniero,kpi 4,primary,no,278,yes,no,unknown,23,may,1015,3,-1,0,unknown,yes
-31,ingeniero,kpi 4,secondary,no,2910,yes,no,unknown,23,may,1392,2,-1,0,unknown,yes
-30,tecnico,kpi 4,tertiary,no,541,yes,no,unknown,26,may,414,2,-1,0,unknown,yes
+40,ingeniero,casado,primary,no,278,yes,no,unknown,23,may,1015,3,-1,0,unknown,yes
+31,ingeniero,casado,secondary,no,2910,yes,no,unknown,23,may,1392,2,-1,0,unknown,yes
+30,tecnico,casado,tertiary,no,541,yes,no,unknown,26,may,414,2,-1,0,unknown,yes
 44,tecnico,kpi 6,secondary,no,1262,yes,no,unknown,26,may,788,11,-1,0,unknown,yes
-34,servicios,kpi 4,secondary,no,-538,yes,no,unknown,26,may,682,1,-1,0,unknown,yes
-37,ingeniero,kpi 4,secondary,no,125,no,no,unknown,26,may,679,2,-1,0,unknown,yes
+34,servicios,casado,secondary,no,-538,yes,no,unknown,26,may,682,1,-1,0,unknown,yes
+37,ingeniero,casado,secondary,no,125,no,no,unknown,26,may,679,2,-1,0,unknown,yes
 28,freelance,soltero,tertiary,no,0,yes,no,unknown,26,may,1560,2,-1,0,unknown,yes
 32,admin.,soltero,secondary,no,620,yes,no,unknown,26,may,1234,3,-1,0,unknown,yes
 37,ingeniero,kpi 6,secondary,no,316,yes,no,unknown,26,may,642,2,-1,0,unknown,yes
-34,administracion,kpi 4,tertiary,no,2287,yes,no,unknown,26,may,895,4,-1,0,unknown,yes
+34,administracion,casado,tertiary,no,2287,yes,no,unknown,26,may,895,4,-1,0,unknown,yes
 38,admin.,kpi 6,secondary,no,198,yes,no,unknown,26,may,431,2,-1,0,unknown,yes
 28,admin.,soltero,secondary,no,460,yes,no,unknown,26,may,741,6,-1,0,unknown,yes
 31,administracion,kpi 6,tertiary,no,1145,yes,no,unknown,26,may,1272,4,-1,0,unknown,yes
-59,servicios,kpi 4,secondary,no,-22,yes,no,unknown,26,may,748,3,-1,0,unknown,yes
-24,ingeniero,kpi 4,secondary,no,685,yes,no,unknown,26,may,896,3,-1,0,unknown,yes
+59,servicios,casado,secondary,no,-22,yes,no,unknown,26,may,748,3,-1,0,unknown,yes
+24,ingeniero,casado,secondary,no,685,yes,no,unknown,26,may,896,3,-1,0,unknown,yes
 26,servicios,soltero,secondary,no,901,yes,no,unknown,26,may,764,2,-1,0,unknown,yes
 59,jubilado,soltero,secondary,no,351,yes,no,unknown,27,may,1063,5,-1,0,unknown,yes
 30,emprendedor,soltero,primary,no,0,yes,yes,unknown,27,may,1051,1,-1,0,unknown,yes
-37,admin.,kpi 4,secondary,no,274,yes,no,unknown,27,may,731,3,-1,0,unknown,yes
+37,admin.,casado,secondary,no,274,yes,no,unknown,27,may,731,3,-1,0,unknown,yes
 30,admin.,soltero,secondary,no,-213,yes,yes,unknown,27,may,751,1,-1,0,unknown,yes
-25,ingeniero,kpi 4,secondary,no,97,yes,no,unknown,27,may,709,1,-1,0,unknown,yes
+25,ingeniero,casado,secondary,no,97,yes,no,unknown,27,may,709,1,-1,0,unknown,yes
 44,servicios,kpi 6,secondary,no,51,yes,yes,unknown,27,may,3094,2,-1,0,unknown,yes
-29,administracion,kpi 4,tertiary,no,314,no,no,unknown,28,may,938,2,-1,0,unknown,yes
+29,administracion,casado,tertiary,no,314,no,no,unknown,28,may,938,2,-1,0,unknown,yes
 26,administracion,soltero,tertiary,no,6840,yes,no,unknown,28,may,1560,2,-1,0,unknown,yes
 26,tecnico,soltero,secondary,no,668,yes,no,unknown,28,may,576,3,-1,0,unknown,yes
 27,servicios,soltero,secondary,no,54,yes,no,unknown,28,may,543,2,-1,0,unknown,yes
 25,freelance,soltero,secondary,no,1242,yes,no,unknown,28,may,615,2,-1,0,unknown,yes
-28,administracion,kpi 4,secondary,no,292,yes,no,unknown,28,may,507,1,-1,0,unknown,yes
+28,administracion,casado,secondary,no,292,yes,no,unknown,28,may,507,1,-1,0,unknown,yes
 23,servicios,soltero,secondary,no,665,yes,no,unknown,28,may,1183,1,-1,0,unknown,yes
 34,administracion,soltero,tertiary,no,1058,yes,no,unknown,28,may,864,2,-1,0,unknown,yes
 28,student,soltero,secondary,no,949,yes,no,unknown,28,may,1730,1,-1,0,unknown,yes
-51,emprendedor,kpi 4,unknown,no,606,yes,no,unknown,28,may,560,9,-1,0,unknown,yes
-35,ingeniero,kpi 4,secondary,no,0,yes,yes,unknown,29,may,543,1,-1,0,unknown,yes
-35,admin.,kpi 4,secondary,no,404,yes,no,unknown,29,may,539,1,-1,0,unknown,yes
-56,ingeniero,kpi 4,secondary,no,249,yes,no,unknown,29,may,791,2,-1,0,unknown,yes
+51,emprendedor,casado,unknown,no,606,yes,no,unknown,28,may,560,9,-1,0,unknown,yes
+35,ingeniero,casado,secondary,no,0,yes,yes,unknown,29,may,543,1,-1,0,unknown,yes
+35,admin.,casado,secondary,no,404,yes,no,unknown,29,may,539,1,-1,0,unknown,yes
+56,ingeniero,casado,secondary,no,249,yes,no,unknown,29,may,791,2,-1,0,unknown,yes
 45,unemployed,kpi 6,secondary,no,3354,yes,no,unknown,29,may,746,1,-1,0,unknown,yes
 60,ingeniero,kpi 6,secondary,no,0,yes,no,unknown,29,may,1207,1,-1,0,unknown,yes
-56,tecnico,kpi 4,secondary,no,589,yes,no,unknown,29,may,535,2,-1,0,unknown,yes
+56,tecnico,casado,secondary,no,589,yes,no,unknown,29,may,535,2,-1,0,unknown,yes
 27,administracion,soltero,tertiary,no,12956,yes,no,unknown,29,may,789,3,-1,0,unknown,yes
-30,admin.,kpi 4,secondary,no,873,yes,no,unknown,29,may,792,3,-1,0,unknown,yes
+30,admin.,casado,secondary,no,873,yes,no,unknown,29,may,792,3,-1,0,unknown,yes
 45,ingeniero,kpi 6,primary,no,594,yes,no,unknown,29,may,833,2,-1,0,unknown,yes
 29,ingeniero,soltero,secondary,no,-20,yes,no,unknown,29,may,814,2,-1,0,unknown,yes
 38,administracion,kpi 6,tertiary,no,4692,yes,no,unknown,29,may,1363,2,-1,0,unknown,yes
-30,ingeniero,kpi 4,secondary,no,486,yes,no,unknown,29,may,1109,3,-1,0,unknown,yes
+30,ingeniero,casado,secondary,no,486,yes,no,unknown,29,may,1109,3,-1,0,unknown,yes
 44,ingeniero,soltero,primary,no,1593,yes,no,unknown,29,may,828,3,-1,0,unknown,yes
 36,administracion,soltero,tertiary,no,7606,yes,no,unknown,30,may,917,1,-1,0,unknown,yes
-38,tecnico,kpi 4,secondary,no,226,yes,no,unknown,30,may,762,3,-1,0,unknown,yes
+38,tecnico,casado,secondary,no,226,yes,no,unknown,30,may,762,3,-1,0,unknown,yes
 36,ingeniero,soltero,secondary,no,366,yes,yes,unknown,30,may,1133,2,-1,0,unknown,yes
 37,administracion,kpi 6,secondary,no,16,yes,no,unknown,30,may,638,1,-1,0,unknown,yes
 35,administracion,soltero,tertiary,no,565,yes,no,unknown,30,may,763,1,-1,0,unknown,yes
 38,admin.,kpi 6,secondary,no,19,yes,no,unknown,30,may,604,2,-1,0,unknown,yes
-40,servicios,kpi 4,primary,no,1082,yes,no,unknown,30,may,854,2,-1,0,unknown,yes
+40,servicios,casado,primary,no,1082,yes,no,unknown,30,may,854,2,-1,0,unknown,yes
 42,unemployed,kpi 6,secondary,no,1713,yes,no,unknown,30,may,855,2,-1,0,unknown,yes
 46,administracion,kpi 6,tertiary,no,14481,yes,no,unknown,30,may,1269,1,-1,0,unknown,yes
 35,tecnico,kpi 6,secondary,no,5724,yes,no,unknown,30,may,691,10,-1,0,unknown,yes
 34,tecnico,kpi 6,secondary,no,1451,yes,no,unknown,30,may,1097,15,-1,0,unknown,yes
-32,servicios,kpi 4,secondary,no,-34,yes,no,unknown,30,may,1236,2,-1,0,unknown,yes
-50,unemployed,kpi 4,secondary,no,3674,yes,no,unknown,30,may,886,3,-1,0,unknown,yes
-35,ingeniero,kpi 4,secondary,no,698,yes,yes,unknown,30,may,1343,3,-1,0,unknown,yes
+32,servicios,casado,secondary,no,-34,yes,no,unknown,30,may,1236,2,-1,0,unknown,yes
+50,unemployed,casado,secondary,no,3674,yes,no,unknown,30,may,886,3,-1,0,unknown,yes
+35,ingeniero,casado,secondary,no,698,yes,yes,unknown,30,may,1343,3,-1,0,unknown,yes
 36,tecnico,soltero,secondary,no,4136,yes,no,unknown,30,may,812,3,-1,0,unknown,yes
 53,ingeniero,kpi 6,primary,no,2656,yes,no,unknown,30,may,1980,2,-1,0,unknown,yes
 46,administracion,soltero,tertiary,no,2904,yes,no,unknown,30,may,984,2,-1,0,unknown,yes
@@ -199,55 +199,55 @@ edad,profesion,estado_civil,educacion,default,balance,housing,loan,contact,day,m
 31,unemployed,kpi 6,primary,no,0,yes,no,unknown,30,may,745,12,-1,0,unknown,yes
 29,administracion,soltero,tertiary,no,0,yes,no,unknown,30,may,539,12,-1,0,unknown,yes
 53,emprendedor,soltero,secondary,no,62,yes,no,unknown,30,may,1044,5,-1,0,unknown,yes
-27,ingeniero,kpi 4,primary,no,416,yes,no,unknown,30,may,1193,2,-1,0,unknown,yes
-39,administracion,kpi 4,tertiary,no,2763,yes,no,unknown,2,jun,526,2,-1,0,unknown,yes
-36,servicios,kpi 4,secondary,no,2984,yes,no,unknown,2,jun,394,1,-1,0,unknown,yes
-41,ingeniero,kpi 4,primary,no,143,yes,yes,unknown,2,jun,659,2,-1,0,unknown,yes
-36,servicios,kpi 4,primary,no,0,yes,no,unknown,2,jun,1036,1,-1,0,unknown,yes
-32,tecnico,kpi 4,secondary,no,696,yes,no,unknown,2,jun,815,1,-1,0,unknown,yes
-35,servicios,kpi 4,secondary,no,152,yes,no,unknown,2,jun,563,1,-1,0,unknown,yes
+27,ingeniero,casado,primary,no,416,yes,no,unknown,30,may,1193,2,-1,0,unknown,yes
+39,administracion,casado,tertiary,no,2763,yes,no,unknown,2,jun,526,2,-1,0,unknown,yes
+36,servicios,casado,secondary,no,2984,yes,no,unknown,2,jun,394,1,-1,0,unknown,yes
+41,ingeniero,casado,primary,no,143,yes,yes,unknown,2,jun,659,2,-1,0,unknown,yes
+36,servicios,casado,primary,no,0,yes,no,unknown,2,jun,1036,1,-1,0,unknown,yes
+32,tecnico,casado,secondary,no,696,yes,no,unknown,2,jun,815,1,-1,0,unknown,yes
+35,servicios,casado,secondary,no,152,yes,no,unknown,2,jun,563,1,-1,0,unknown,yes
 36,administracion,soltero,tertiary,no,-78,yes,no,unknown,2,jun,1068,1,-1,0,unknown,yes
-35,administracion,kpi 4,tertiary,no,867,yes,no,unknown,2,jun,230,3,-1,0,unknown,yes
+35,administracion,casado,tertiary,no,867,yes,no,unknown,2,jun,230,3,-1,0,unknown,yes
 30,ingeniero,soltero,secondary,no,953,yes,no,unknown,2,jun,747,2,-1,0,unknown,yes
-42,ingeniero,kpi 4,secondary,no,443,yes,no,unknown,2,jun,671,5,-1,0,unknown,yes
+42,ingeniero,casado,secondary,no,443,yes,no,unknown,2,jun,671,5,-1,0,unknown,yes
 42,tecnico,soltero,secondary,yes,-1129,yes,no,unknown,2,jun,555,5,-1,0,unknown,yes
-32,ingeniero,kpi 4,primary,no,415,yes,no,unknown,2,jun,777,4,-1,0,unknown,yes
+32,ingeniero,casado,primary,no,415,yes,no,unknown,2,jun,777,4,-1,0,unknown,yes
 29,ingeniero,soltero,secondary,no,260,yes,no,unknown,2,jun,707,14,-1,0,unknown,yes
 44,administracion,kpi 6,tertiary,yes,-411,yes,no,unknown,2,jun,432,4,-1,0,unknown,yes
 32,tecnico,soltero,secondary,no,1279,yes,no,unknown,3,jun,1173,3,-1,0,unknown,yes
-31,unemployed,kpi 4,secondary,no,86,yes,yes,unknown,3,jun,963,2,-1,0,unknown,yes
-40,freelance,kpi 4,secondary,yes,-754,yes,yes,unknown,3,jun,941,3,-1,0,unknown,yes
-43,emprendedor,kpi 4,secondary,no,0,no,no,unknown,3,jun,1025,7,-1,0,unknown,yes
+31,unemployed,casado,secondary,no,86,yes,yes,unknown,3,jun,963,2,-1,0,unknown,yes
+40,freelance,casado,secondary,yes,-754,yes,yes,unknown,3,jun,941,3,-1,0,unknown,yes
+43,emprendedor,casado,secondary,no,0,no,no,unknown,3,jun,1025,7,-1,0,unknown,yes
 27,administracion,soltero,secondary,no,178,yes,no,unknown,3,jun,732,2,-1,0,unknown,yes
 37,servicios,soltero,secondary,no,278,yes,no,unknown,3,jun,1045,3,-1,0,unknown,yes
 23,servicios,soltero,secondary,no,425,yes,no,unknown,3,jun,768,1,-1,0,unknown,yes
-25,administracion,kpi 4,primary,no,168,yes,no,unknown,3,jun,801,1,-1,0,unknown,yes
+25,administracion,casado,primary,no,168,yes,no,unknown,3,jun,801,1,-1,0,unknown,yes
 26,ingeniero,soltero,secondary,yes,-36,yes,no,unknown,3,jun,482,2,-1,0,unknown,yes
 47,ingeniero,kpi 6,primary,no,126,yes,no,unknown,3,jun,2456,2,-1,0,unknown,yes
-35,admin.,kpi 4,secondary,no,-87,yes,no,unknown,3,jun,1363,7,-1,0,unknown,yes
+35,admin.,casado,secondary,no,-87,yes,no,unknown,3,jun,1363,7,-1,0,unknown,yes
 32,tecnico,soltero,tertiary,no,6281,yes,no,unknown,3,jun,1336,4,-1,0,unknown,yes
 45,administracion,kpi 6,secondary,no,644,yes,no,unknown,4,jun,633,1,-1,0,unknown,yes
 30,admin.,kpi 6,secondary,no,377,yes,no,unknown,4,jun,524,15,-1,0,unknown,yes
 29,servicios,soltero,secondary,no,-271,yes,no,unknown,4,jun,578,1,-1,0,unknown,yes
-38,ingeniero,kpi 4,primary,no,5839,yes,no,unknown,4,jun,984,2,-1,0,unknown,yes
+38,ingeniero,casado,primary,no,5839,yes,no,unknown,4,jun,984,2,-1,0,unknown,yes
 23,ingeniero,soltero,secondary,no,492,yes,no,unknown,4,jun,638,1,-1,0,unknown,yes
 27,administracion,soltero,tertiary,no,99,yes,no,unknown,4,jun,767,2,-1,0,unknown,yes
 27,administracion,soltero,tertiary,yes,-713,yes,no,unknown,4,jun,525,2,-1,0,unknown,yes
 29,servicios,soltero,secondary,no,32,yes,no,unknown,4,jun,563,1,-1,0,unknown,yes
-30,freelance,kpi 4,tertiary,no,543,yes,yes,unknown,4,jun,1449,6,-1,0,unknown,yes
-36,ingeniero,kpi 4,primary,no,403,yes,no,unknown,4,jun,920,1,-1,0,unknown,yes
+30,freelance,casado,tertiary,no,543,yes,yes,unknown,4,jun,1449,6,-1,0,unknown,yes
+36,ingeniero,casado,primary,no,403,yes,no,unknown,4,jun,920,1,-1,0,unknown,yes
 35,admin.,kpi 6,secondary,no,437,yes,no,unknown,4,jun,908,1,-1,0,unknown,yes
-36,ingeniero,kpi 4,secondary,no,1772,no,no,unknown,5,jun,208,1,-1,0,unknown,yes
+36,ingeniero,casado,secondary,no,1772,no,no,unknown,5,jun,208,1,-1,0,unknown,yes
 59,jubilado,kpi 6,primary,no,-88,yes,no,unknown,5,jun,910,2,-1,0,unknown,yes
-47,emprendedor,kpi 4,secondary,no,0,no,no,unknown,5,jun,1446,1,-1,0,unknown,yes
-58,emprendedor,kpi 4,tertiary,no,853,no,no,unknown,5,jun,1149,2,-1,0,unknown,yes
+47,emprendedor,casado,secondary,no,0,no,no,unknown,5,jun,1446,1,-1,0,unknown,yes
+58,emprendedor,casado,tertiary,no,853,no,no,unknown,5,jun,1149,2,-1,0,unknown,yes
 37,administracion,soltero,tertiary,no,240,no,no,unknown,5,jun,1123,1,-1,0,unknown,yes
 46,admin.,soltero,secondary,no,849,yes,no,unknown,5,jun,508,2,-1,0,unknown,yes
 43,ingeniero,soltero,secondary,no,318,yes,no,unknown,5,jun,736,2,-1,0,unknown,yes
 27,administracion,soltero,tertiary,no,703,yes,no,unknown,5,jun,590,3,-1,0,unknown,yes
 38,servicios,kpi 6,secondary,no,61,no,no,unknown,5,jun,636,1,-1,0,unknown,yes
-53,dueña de casa,kpi 4,primary,no,104,no,yes,unknown,5,jun,701,1,-1,0,unknown,yes
-47,ingeniero,kpi 4,secondary,no,1996,no,no,unknown,5,jun,761,2,-1,0,unknown,yes
+53,dueña de casa,casado,primary,no,104,no,yes,unknown,5,jun,701,1,-1,0,unknown,yes
+47,ingeniero,casado,secondary,no,1996,no,no,unknown,5,jun,761,2,-1,0,unknown,yes
 56,dueña de casa,kpi 6,primary,yes,1238,no,no,unknown,5,jun,1558,1,-1,0,unknown,yes
 41,dueña de casa,kpi 4,secondary,no,879,no,no,unknown,5,jun,1053,2,-1,0,unknown,yes
 29,freelance,kpi 4,secondary,no,425,yes,no,unknown,5,jun,562,15,-1,0,unknown,yes
