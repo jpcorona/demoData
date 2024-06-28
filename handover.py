@@ -20,17 +20,17 @@ t1, t2 = st.columns((0.07,1))
 
 t1.image('index.png', width = 120)
 t2.title("Reporte Shipping Mark Plantas")
-t2.markdown(" **calidad@agrosuper.com")
+t2.markdown(" calidad@agrosuper.com")
 
 
 
 ## Data
 
-with st.spinner('Updating Report...'):
+with st.spinner('Actualizando Reporte...'):
     
     #Metrics setting and rendering
 
-    hosp_df = pd.read_excel('DataforMock.xlsx',sheet_name = 'Hospitals')
+    hosp_df = pd.read_excel('DataforMock.xlsx',sheet_name = 'Plantas')
     hosp = st.selectbox('Choose Hospital', hosp_df, help = 'Filter report to show only one hospital')
     
     m1, m2, m3, m4, m5 = st.columns((1,1,1,1,1))
