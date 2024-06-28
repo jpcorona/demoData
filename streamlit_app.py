@@ -325,7 +325,7 @@ ticker_df, history_dfs = download_data()
 ticker_df, history_dfs = transform_data(ticker_df, history_dfs)
 all_symbols = list(ticker_df["Ticker"])
 
-st.html('<h1 class="title">Stocks Dashboard</h1>')
+st.html('<h1 class="title">Dasboard Shipping Mark</h1>')
 
 display_watchlist(ticker_df)
 
