@@ -11,7 +11,7 @@ from plotly.subplots import make_subplots
 ### Configure App
 ##################################################################
 
-st.set_page_config(page_title="Stocks Dashboard", page_icon="💹", layout="wide")
+st.set_page_config(page_title="Estadísticas Shipping Mark", page_icon="💹", layout="wide")
 st.html("styles.html")
 pio.templates.default = "plotly_white"
 
