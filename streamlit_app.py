@@ -203,7 +203,7 @@ def plot_candlestick(history_df):
         col=1,
     )
     f_candle.update_layout(
-        title="Stock Price Trends",
+        title="Estadísticas Shipping Mark",
         showlegend=True,
         xaxis_rangeslider_visible=False,
         # xaxis=dict(title="date"),
