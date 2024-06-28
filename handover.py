@@ -11,7 +11,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-st.set_page_config(page_title='SWAST - Handover Delays',  layout='wide', page_icon=':ambulance:')
+st.set_page_config(page_title='SHIPPING MARK - CALIDAD',  layout='wide', page_icon=':ambulance:')
 
 #this is the header
  
